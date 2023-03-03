@@ -3,7 +3,7 @@ import pygame
 import sys
 
 pygame.init()
-taille = int(input("taille"))
+taille = int(input("Input the size of your board"))
 tab = [[0 for i in range(taille)] for j in range(taille)]
 spawn(tab)
 dir = ""
