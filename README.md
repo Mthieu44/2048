@@ -1,5 +1,5 @@
 # 2048
-The famous 2048 game
+https://en.wikipedia.org/wiki/2048_(video_game)
 
 ### How to run  
 Simply run the main.py file :
